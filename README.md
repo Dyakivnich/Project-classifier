@@ -2,7 +2,7 @@
 
 ## Задача проекта
 
-Исследовать [данные](https://github.com/Dyakivnich/DS_job_salaries/blob/master/ds_salaries.csv) банка.
+Исследовать [данные](https://github.com/Dyakivnich/Project-classifier/blob/master/bank_fin.csv) банка.
 
 ## Знакомство с данными
 
